@@ -2,8 +2,8 @@
   "name": "hexelt--hello-world",
   "version": "1.0.0",
   "description": "js study project",
-  "type": "module",
   "main": "index.js",
+  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
